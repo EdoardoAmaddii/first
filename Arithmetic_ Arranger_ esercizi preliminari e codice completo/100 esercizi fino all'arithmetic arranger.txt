@@ -1,0 +1,430 @@
+Verifica se un Numero è Positivo o Negativo
+
+Scrivi un'espressione booleana per verificare se un numero è positivo o negativo.
+Verifica Se un Numero è Divisibile per 3
+
+Usa l'operatore modulo (%) per verificare se un numero è divisibile per 3.
+Controllo di Voto Sufficiente
+
+Usa una condizione booleana per verificare se un voto è sufficiente (>= 6).
+Verifica Parole con la stessa Lunghezza
+
+Usa una condizione booleana per verificare se due stringhe hanno la stessa lunghezza.
+
+
+
+
+Sezione 3: Funzioni (Esercizi 21-30)
+
+
+Scrivi una Funzione Semplice
+
+Crea una funzione che stampa un messaggio.
+
+
+Somma di Due Numeri
+
+Crea una funzione che restituisce la somma di due numeri.
+
+
+Funzione con Parametro
+
+Crea una funzione che prende un parametro e stampa il quadrato di un numero.
+
+
+
+Funzione con Valore di Default
+
+Crea una funzione con un parametro che ha un valore di default.
+
+
+Funzione di Aritmetica
+
+Scrivi una funzione che calcola la somma, la sottrazione e la moltiplicazione di due numeri.
+
+
+
+Funzione con Risultato Condizionale
+
+Scrivi una funzione che restituisce un messaggio diverso a seconda di un parametro.
+Funzione con Lista di Numeri
+
+Crea una funzione che somma tutti gli elementi di una lista di numeri.
+
+
+Funzione Ricorsiva
+
+Crea una funzione che calcola il fattoriale di un numero usando la ricorsione.
+Funzione con Esempio di Error Handling
+
+Crea una funzione che gestisce gli errori usando try e except.
+Funzione per Trovare il Massimo
+
+Scrivi una funzione che trova il massimo di tre numeri.
+
+
+
+Sezione 4: Iterazioni (Esercizi 31-40)
+Stampa da 1 a 10
+
+Usa un ciclo for per stampare i numeri da 1 a 10.
+Somma da 1 a 10
+
+Usa un ciclo for per sommare i numeri da 1 a 10.
+Ciclo con Condizione
+
+Usa un ciclo while per stampare i numeri fino a quando non raggiungi 10.
+Verifica Pari nei Numeri
+
+Usa un ciclo for per stampare solo i numeri pari tra 1 e 20.
+Ciclo con Break
+
+Usa un ciclo for con break per fermare il ciclo quando il numero raggiunge 5.
+Ciclo con Continue
+
+Usa un ciclo for con continue per saltare i numeri dispari.
+Somma di Numeri Positivi
+
+Usa un ciclo while per sommare solo i numeri positivi fino a quando l'utente non inserisce 0.
+Iterazione su una Lista
+
+Usa un ciclo for per iterare su una lista di nomi e stampare ciascuno.
+Raccogli i Numeri Positivi
+
+Usa un ciclo for per raccogliere tutti i numeri positivi da una lista e restituirli.
+Contare Parole in una Stringa
+
+Usa un ciclo for per contare il numero di parole in una stringa.
+
+
+
+
+Sezione 5: Stringhe (Esercizi 41-50)
+Accedi a un Carattere in una Stringa
+
+Estrai il primo e l'ultimo carattere di una stringa.
+Modifica una Stringa
+
+Usa il metodo replace() per sostituire una parola in una stringa.
+Verifica la Lunghezza della Stringa
+
+Scrivi un programma che verifica se una stringa ha una lunghezza pari o dispari.
+Trova una Parola in una Stringa
+
+Usa in per verificare se una parola è presente in una stringa.
+Stringa in Maiuscolo
+
+Converte una stringa in maiuscolo.
+Palindromi
+
+Scrivi una funzione che verifica se una stringa è un palindromo.
+Estrazione Sottostringa
+
+Estrai una sottostringa da una stringa con un certo indice.
+Rimuovi Spazi dalla Stringa
+
+Rimuovi gli spazi all'inizio e alla fine di una stringa.
+Conta le Occorrenze di una Parola
+
+Conta quante volte una parola appare in una stringa.
+Verifica Anagramma
+
+Crea una funzione che verifica se due stringhe sono anagrammi.
+Sezione 6: Liste (Esercizi 51-60) ELENCHI
+Crea una Lista di Numeri
+
+Crea una lista contenente i numeri da 1 a 5.
+Accedi agli Elementi della Lista
+
+Accedi al primo e all’ultimo elemento di una lista.
+Modifica una Lista
+
+Modifica il secondo elemento di una lista.
+Aggiungi Elementi alla Lista
+
+Aggiungi un nuovo elemento alla lista usando append().
+Rimuovi un Elemento dalla Lista
+
+Rimuovi il terzo elemento di una lista usando remove().
+Ordina una Lista di Numeri
+
+Ordina una lista di numeri in ordine crescente.
+Trova il Massimo e il Minimo
+
+Trova il massimo e il minimo di una lista di numeri.
+Somma degli Elementi di una Lista
+
+Somma tutti gli elementi di una lista numerica.
+Unisci Due Liste
+
+Unisci due liste in una nuova lista.
+Copia una Lista
+
+Copia una lista in un’altra lista.
+Sezione 7: Dizionari (Esercizi 61-70)
+Crea un Dizionario
+
+Crea un dizionario con almeno tre coppie chiave-valore.
+Accedi agli Elementi di un Dizionario
+
+Accedi al valore associato a una chiave di un dizionario.
+Aggiungi una Coppia Chiave-Valore
+
+Aggiungi una nuova coppia chiave-valore al dizionario.
+Rimuovi una Coppia Chiave-Valore
+
+Rimuovi una coppia chiave-valore dal dizionario usando del.
+Verifica la Presenza di una Chiave
+
+Verifica se una chiave esiste in un dizionario usando in.
+Modifica il Valore di una Chiave
+
+Modifica il valore associato a una chiave nel dizionario.
+Itera su un Dizionario
+
+Itera su un dizionario e stampa le chiavi e i valori.
+Unisci Due Dizionari
+
+Unisci due dizionari in uno nuovo.
+Crea un Dizionario con i Voti
+
+Crea un dizionario che memorizza i voti di diversi studenti.
+Ordina un Dizionario
+
+Ordina un dizionario per chiave.
+Sezione 8: Tuple (Esercizi 71-80)
+Crea una Tuple
+
+Crea una tupla con almeno tre valori.
+Accedi agli Elementi della Tuple
+
+Accedi al primo e all’ultimo elemento di una tupla.
+Modifica una Tupla
+
+Crea una nuova tupla basata su una tupla esistente, aggiungendo un valore.
+Unisci Due Tuple
+
+Unisci due tuple in una nuova tupla.
+Verifica se un Elemento è nella Tuple
+
+Verifica se un elemento è presente in una tupla.
+Tuple e Liste
+
+Converte una tupla in una lista e viceversa.
+Funzioni con Tuple
+
+Passa una tupla come argomento a una funzione.
+Somma degli Elementi in una Tupla
+
+Somma tutti gli elementi numerici di una tupla.
+Immutabilità delle Tuple
+
+Prova a modificare un elemento di una tupla (e osserva l'errore).
+Crea una Tuple con Voti
+
+Crea una tupla con i voti di diversi studenti e calcola la media.
+
+
+
+Sezione 9: Iniziare l'Arithmetic Arranger (Esercizi 81-100)
+
+81-90
+
+Funzione di Somma
+
+Crea una funzione che restituisce la somma di due numeri.
+Funzione di Sottrazione
+
+Crea una funzione che restituisce la sottrazione di due numeri.
+Funzione di Moltiplicazione
+
+Crea una funzione che restituisce il prodotto di due numeri.
+Funzione di Divisione
+
+Crea una funzione che restituisce la divisione di due numeri.
+Gestione degli Errori di Divisione
+
+Gestisci l’errore di divisione per zero.
+Calcolatrice con Input Utente
+
+Scrivi una calcolatrice che prende l'input dell'utente e esegue l'operazione desiderata.
+Visualizza Operazioni in Formato Tabella
+
+Crea una funzione che visualizza i risultati in una tabella ben formattata.
+Crea un Menu per il Calcolatore
+
+Crea un menu che permette all'utente di scegliere l’operazione (somma, sottrazione, ecc.).
+Aggiungi Supporto per Operazioni Complesse
+
+Aggiungi il supporto per esponenti e radici quadrate.
+Gestisci Molteplici Operazioni
+
+Crea un loop che permette all'utente di eseguire più operazioni fino a quando non decide di uscire.
+
+
+91-100
+
+Calcolatrice con Storico
+
+Memorizza il risultato di ogni operazione in una lista e mostra lo storico.
+Visualizza Risultati con la Formattazione
+
+Usa f-string per formattare i risultati in modo chiaro.
+Gestisci Errori Input Utente
+
+Verifica se l'utente inserisce valori validi per i numeri e gli operatori.
+Esportazione Risultati in un File
+
+Esporta i risultati delle operazioni in un file di testo.
+Sistema di Log per Errori
+
+Implementa un sistema di log per memorizzare gli errori in un file.
+Ottimizzazione delle Funzioni
+
+Ottimizza le funzioni di calcolo per gestire input più grandi e operazioni multiple.
+Interfaccia Grafica del Calcolatore
+
+Aggiungi una semplice interfaccia grafica per il calcolatore usando tkinter.
+Semplificazione del Codice
+
+Rendi il codice più leggibile e modulare suddividendolo in funzioni.
+Test della Calcolatrice
+
+Scrivi dei test unitari per assicurarti che tutte le funzioni della calcolatrice funzionino correttamente.
+Completa l'Arithmetic Arranger - Integra tutti gli esercizi precedenti per creare una calcolatrice completa che gestisce operazioni, errori e visualizza i risultati in modo formattato.
+
+Questi 100 esercizi ti guideranno attraverso tutti gli argomenti fondamentali necessari per costruire un Arithmetic Arranger completo, e ti aiuteranno a sviluppare le competenze per risolvere problemi pratic
+
+
+3/3
+
+Hai detto:
+inserisci altri 10 esercizi tra un livello ed un altro che creino i progetti richiesti
+ChatGPT ha detto:
+ChatGPT
+Perfetto! Ecco altri 10 esercizi che collegano i concetti appresi nei vari livelli e ti aiuteranno a costruire progressivamente il progetto dell'Arithmetic Arranger. Questi esercizi ti aiuteranno a combinare le nozioni apprese e cominciare a gestire la logica necessaria per arrivare al progetto finale.
+
+Sezione 7: Progetti Intermedi per Costruire l'Arithmetic Arranger (Esercizi 61-70)
+61. Funzione per Ordinare Numeri in una Lista
+
+Scrivi una funzione che prende una lista di numeri e la ordina in ordine crescente.
+62. Funzione per Calcolare la Media di una Lista di Numeri
+
+Scrivi una funzione che calcola la media di una lista di numeri.
+63. Funzione per Verificare Se un Numero è Primo
+
+Crea una funzione che verifica se un numero è primo (uso di iterazione e condizioni booleane).
+64. Creazione di una Lista con Numeri Pari da 1 a 100
+
+Crea una lista contenente tutti i numeri pari tra 1 e 100, utilizzando un ciclo for.
+65. Funzione per Sommare Numeri in una Lista di Numeri Positivi
+
+Scrivi una funzione che somma solo i numeri positivi di una lista (usa un ciclo for).
+66. Funzione che Stampa Operazioni Aritmetiche in Formato "Equazione"
+
+Scrivi una funzione che prende due numeri e stampa l'operazione di somma, sottrazione, moltiplicazione e divisione in formato "numero1 operazione numero2 = risultato".
+67. Creazione di una Lista con il Risultato delle Operazioni tra Due Numeri
+
+Scrivi un programma che crea una lista contenente il risultato delle operazioni aritmetiche su due numeri (somma, sottrazione, moltiplicazione, divisione).
+68. Creazione di un Dizionario con Operazioni Matematiche
+
+Crea un dizionario in cui le chiavi sono le operazioni matematiche (somma, sottrazione, etc.) e i valori sono i risultati delle operazioni tra due numeri.
+69. Funzione che Restituisce un Stringa con l'Equazione Formattata
+
+Scrivi una funzione che prende due numeri e restituisce una stringa formattata in modo simile a una "equazione" (es. "5 + 3 = 8").
+70. Funzione per Formattare i Risultati delle Operazioni in una Lista
+
+Crea una funzione che prende una lista di numeri e restituisce una lista di stringhe formattate come equazioni. Per esempio, [5, 3, 2] restituisce ["5 + 3 = 8", "3 - 2 = 1", "2 * 5 = 10"].
+Sezione 8: Funzionalità Preparatorie per l'Arithmetic Arranger (Esercizi 71-80)
+71. Costruisci una Funzione che Aggiunge Numeri alla Lista
+
+Scrivi una funzione che aggiunge un numero alla fine di una lista e restituisce la lista aggiornata.
+72. Creazione di una Funzione che Calcola l'Operazione Selezionata
+
+Scrivi una funzione che esegue l'operazione aritmetica selezionata (somma, sottrazione, etc.) tra due numeri.
+73. Costruzione di un'Interfaccia Utente per Inserire Numeri
+
+Scrivi un programma che chiede all'utente di inserire due numeri e l'operazione aritmetica che desidera eseguire, poi visualizza il risultato.
+74. Crea una Funzione che Aggiunge e Restituisce il Risultato
+
+Crea una funzione che esegue l'operazione scelta su due numeri, aggiunge il risultato a una lista e restituisce la lista.
+75. Calcolare il Risultato e Visualizzare un Messaggio con l'Operazione
+
+Scrivi una funzione che calcola il risultato di un'operazione e visualizza un messaggio che mostra il calcolo, come ad esempio "5 + 3 = 8".
+76. Aggiungi un Ciclo che Continua Finché l'Utente Non Decida di Fermarsi
+
+Implementa un ciclo che continua a chiedere operazioni all'utente (somma, sottrazione, etc.) finché non inserisce un comando per fermarsi.
+77. Crea una Funzione che Restituisce la Somma di una Lista di Risultati
+
+Scrivi una funzione che restituisce la somma di tutti i risultati in una lista di operazioni.
+78. Verifica Se l'Operazione Scelta è Valida
+
+Scrivi una funzione che verifica se l'operazione scelta dall'utente è una delle operazioni matematiche valide (somma, sottrazione, etc.).
+79. Creazione di una Funzione che Genera Equazioni Casuali
+
+Scrivi una funzione che genera e stampa equazioni casuali con numeri tra 1 e 10, come ad esempio "2 + 3 = 5".
+80. Funzione per Gestire più Operazioni in Sequenza
+
+Scrivi una funzione che permette all'utente di inserire più operazioni in sequenza, restituisce i risultati e le equazioni in formato chiaro.
+Sezione 9: Progetto Finale: Arithmetic Arranger (Esercizi 81-90)
+81. Costruzione della Funzione per l'Arithmetic Arranger
+
+Scrivi la funzione principale che raccoglie tutte le operazioni aritmetiche e le formatta in una lista.
+82. Gestione dell'Input Utente per Inserire Più Operazioni
+
+Scrivi il codice per raccogliere più operazioni aritmetiche dall'utente e visualizzare le equazioni formattate.
+83. Creazione di un Sistema che Separa le Operazioni in Due Gruppi
+
+Organizza le operazioni in due gruppi separati, uno per le operazioni completate correttamente e l'altro per quelle non valide o incompletate.
+84. Creazione di un'Interfaccia per Visualizzare i Risultati
+
+Aggiungi una funzionalità che visualizza il risultato di ogni operazione in modo ordinato e chiaro per l'utente.
+85. Aggiunta di Verifica per Operazioni Eseguite Correttamente
+
+Implementa una verifica per ogni operazione, stampando un messaggio che conferma se è stata eseguita correttamente.
+86. Creazione di un Codice per Gestire Errori nell'Input
+
+Gestisci possibili errori nell'input dell'utente, come inserimenti errati o operazioni non valide.
+87. Esportazione dei Risultati in un File di Testo
+
+Scrivi una funzione che esporta le operazioni e i risultati in un file di testo.
+88. Calcolo della Media dei Risultati delle Operazioni
+
+Scrivi una funzione che calcola la media dei risultati delle operazioni eseguite.
+89. Funzione per Rimuovere Operazioni Non Corrette
+
+Crea una funzione che rimuove dalle operazioni quelle che non sono valide o che contengono errori.
+90. Gestione dell'Output per Visualizzare tutte le Operazioni in un Formato Ordinato
+
+Scrivi una funzione che restituisce tutte le operazioni eseguite in un formato leggibile, separando le operazioni completate e quelle errate.
+Sezione 10: Rifinitura e Ottimizzazione del Progetto (Esercizi 91-100)
+91. Ottimizzazione del Codice per Migliorare la Performance
+
+Ottimizza il codice per gestire un numero maggiore di operazioni senza rallentamenti.
+92. Aggiunta di Funzionalità per Personalizzare le Equazioni
+
+Permetti all'utente di scegliere le operazioni da eseguire e personalizzare le equazioni.
+93. Testing del Progetto
+
+Scrivi dei test per verificare che tutte le funzioni e il flusso del programma funzionino correttamente.
+94. Aggiunta di Feedback Interattivo all'Utente
+
+Aggiungi messaggi interattivi che forniscono feedback sugli input dell'utente (ad esempio, "Operazione eseguita correttamente!").
+95. Creazione di una Funzione di Reset per Iniziare un Nuovo Set di Operazioni
+
+Implementa una funzione che resetta il programma e permette di iniziare un nuovo set di operazioni.
+96. Modifica dell'Output per Supportare Formati Personalizzati
+
+Permetti all'utente di scegliere tra vari formati di output (es. formato "stringa" o "lista").
+97. Aggiunta di un Sistema di Statistiche sul Progresso
+
+Aggiungi un sistema che tiene traccia del progresso dell'utente (es. numero di operazioni corrette).
+98. Implementazione di un Riepilogo Finale del Progetto
+
+Aggiungi una funzionalità che mostra un riepilogo finale delle operazioni eseguite e dei risultati.
+99. Aggiunta di una Funzione di Salvataggio e Caricamento delle Operazioni
+
+Permetti di salvare e caricare un set di operazioni in un file esterno.
+100. Riflessione Finale e Pulizia del Codice
+
+Fai una revisione finale del codice, rimuovi parti inutilizzate e prepara il progetto per la fase finale di deploy.
