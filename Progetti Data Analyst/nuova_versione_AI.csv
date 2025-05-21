@@ -1,0 +1,6 @@
+AI,Utenti Attivi Mensili (MAU),Energia per Query (Wh),CO2 per Query (g),Acqua per Query (ml),Costo per Query (USD),Fonte Energetica Datacenter,Dimensione Modello (parametri),Stima Affidabilità Media,Query Totali Mese,Costo Totale Mese (USD),Acqua Totale Mese (litri)
+ChatGPT (GPT-4o),400000000.0,0.3,4.3,5.0,0.0036,Azure (100% rinnovabile 2025),~1.8T,Alta,240000000000.0,864000000.0,1200000000.0
+Claude 3 Opus,20000000.0,0.3,4.3,5.0,0.0035,AWS (100% rinnovabile 2023),~2T (non confermato),Media,12000000000.0,42000000.0,60000000.0
+Google Gemini Ultra,350000000.0,0.25,3.8,4.0,0.0028,Google Cloud (100% rinnovabile),~1T,Media,210000000000.0,588000000.0,840000000.0
+Microsoft Copilot,31000000.0,0.3,4.3,5.0,0.0036,Azure,~1.8T,Media,18600000000.0,66960000.0,93000000.0
+Mistral (Mixtral),10000000.0,0.1,1.5,1.0,0.0012,AWS/Azure/Nucleare Francia,7.3B,Media-Bassa,6000000000.0,7199999.999999999,6000000.0
