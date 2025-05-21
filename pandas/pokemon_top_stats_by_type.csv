@@ -1,0 +1,99 @@
+Type,Stat,Name,Value
+Bug,HP,Yanmega,86
+Bug,Attack,HeracrossMega Heracross,185
+Bug,Defense,Shuckle,230
+Bug,Speed,Ninjask,160
+Dark,HP,Yveltal,126
+Dark,Attack,AbsolMega Absol,150
+Dark,Defense,SableyeMega Sableye,125
+Dark,Speed,Weavile,125
+Dark,Speed,Darkrai,125
+Dragon,HP,Kyurem,125
+Dragon,HP,KyuremBlack Kyurem,125
+Dragon,HP,KyuremWhite Kyurem,125
+Dragon,Attack,RayquazaMega Rayquaza,180
+Dragon,Defense,SalamenceMega Salamence,130
+Dragon,Speed,SalamenceMega Salamence,120
+Electric,HP,Zapdos,90
+Electric,HP,Ampharos,90
+Electric,HP,AmpharosMega Ampharos,90
+Electric,HP,Raikou,90
+Electric,Attack,Electivire,123
+Electric,Defense,Magnezone,115
+Electric,Speed,Electrode,140
+Erba,HP,Bulbasaur 2.0,45
+Erba,Attack,Bulbasaur 2.0,49
+Erba,Defense,Bulbasaur 2.0,49
+Erba,Speed,Bulbasaur 2.0,45
+Erba Malefica,HP,Venusaur,80
+Erba Malefica,HP,VenusaurMega Venusaur,80
+Erba Malefica,Attack,VenusaurMega Venusaur,100
+Erba Malefica,Defense,VenusaurMega Venusaur,123
+Erba Malefica,Speed,Venusaur,80
+Erba Malefica,Speed,VenusaurMega Venusaur,80
+Fairy,HP,Xerneas,126
+Fairy,Attack,Xerneas,131
+Fairy,Defense,Togekiss,95
+Fairy,Defense,Xerneas,95
+Fairy,Speed,Xerneas,99
+Fighting,HP,Hariyama,144
+Fighting,Attack,LucarioMega Lucario,145
+Fighting,Defense,Hitmontop,95
+Fighting,Defense,Conkeldurr,95
+Fighting,Speed,Hawlucha,118
+Fire,HP,Entei,115
+Fire,Attack,BlazikenMega Blaziken,160
+Fire,Defense,Torkoal,140
+Fire,Speed,Talonflame,126
+Flying,HP,Noivern,85
+Flying,Attack,TornadusIncarnate Forme,115
+Flying,Defense,TornadusTherian Forme,80
+Flying,Defense,Noivern,80
+Flying,Speed,Noivern,123
+Ghost,HP,Drifblim,150
+Ghost,HP,GiratinaAltered Forme,150
+Ghost,HP,GiratinaOrigin Forme,150
+Ghost,Attack,BanetteMega Banette,165
+Ghost,Defense,Cofagrigus,145
+Ghost,Speed,GengarMega Gengar,130
+Grass,HP,Gogoat,123
+Grass,Attack,AbomasnowMega Abomasnow,132
+Grass,Defense,Ferrothorn,131
+Grass,Speed,SceptileMega Sceptile,145
+Ground,HP,Rhyperior,115
+Ground,Attack,GroudonPrimal Groudon,180
+Ground,Defense,GroudonPrimal Groudon,160
+Ground,Speed,Dugtrio,120
+Ice,HP,Walrein,110
+Ice,HP,Mamoswine,110
+Ice,Attack,Mamoswine,130
+Ice,Defense,Avalugg,184
+Ice,Speed,Froslass,110
+Normal,HP,Blissey,255
+Normal,Attack,Slaking,160
+Normal,Attack,Regigigas,160
+Normal,Defense,AudinoMega Audino,126
+Normal,Speed,LopunnyMega Lopunny,135
+Poison,HP,Muk,105
+Poison,Attack,Toxicroak,106
+Poison,Defense,Weezing,120
+Poison,Speed,Crobat,130
+Psychic,HP,Wobbuffet,190
+Psychic,Attack,MewtwoMega Mewtwo X,190
+Psychic,Defense,DeoxysDefense Forme,160
+Psychic,Speed,DeoxysSpeed Forme,180
+Rock,HP,Aurorus,123
+Rock,Attack,Rampardos,165
+Rock,Defense,Regirock,200
+Rock,Speed,AerodactylMega Aerodactyl,150
+Steel,HP,Jirachi,100
+Steel,HP,Dialga,100
+Steel,Attack,AegislashBlade Forme,150
+Steel,Defense,SteelixMega Steelix,230
+Steel,Defense,AggronMega Aggron,230
+Steel,Speed,MetagrossMega Metagross,110
+Water,HP,Wailord,170
+Water,Attack,GyaradosMega Gyarados,155
+Water,Defense,SlowbroMega Slowbro,180
+Water,Defense,Cloyster,180
+Water,Speed,Greninja,122
